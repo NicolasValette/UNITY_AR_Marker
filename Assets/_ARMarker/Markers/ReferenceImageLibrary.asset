@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4984246736427168295
-      m_GuidHigh: 4294319574330025405
+      m_GuidLow: 4653575506185502037
+      m_GuidHigh: 2816260666964148369
     m_SerializedTextureGuid:
-      m_GuidLow: 16407838177203917435
-      m_GuidHigh: 2877729494182235355
+      m_GuidLow: 6486321042785716701
+      m_GuidHigh: 15969582687925897115
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: MarkerIcons01
+    m_Name: Van_Gogh_-_Starry_Night_-_Google_Art_Project
     m_Texture: {fileID: 0}
